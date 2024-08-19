@@ -7,10 +7,11 @@
         <option value="$PROJECT_DIR$/SummRegistry/pom.xml" />
         <option value="$PROJECT_DIR$/SummGateway/pom.xml" />
         <option value="$PROJECT_DIR$/SummUser/pom.xml" />
+        <option value="$PROJECT_DIR$/SummDB/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

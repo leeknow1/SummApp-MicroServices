@@ -10,11 +10,13 @@
         <module name="SummRegistry" />
         <module name="SummGateway" />
         <module name="SummUser" />
+        <module name="SummDB" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SummDB" options="-parameters" />
       <module name="SummGateway" options="-parameters" />
       <module name="SummRegistry" options="-parameters" />
       <module name="SummUser" options="-parameters" />
